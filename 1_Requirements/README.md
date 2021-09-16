@@ -12,25 +12,25 @@
 
  ## SWOT Analysis- Strengths, and Weakness, Opportunities Threats
  ## Strength
- 1.Low cost and compitable system.
- 2.User Friendly.
- 3.Easy to modify the temperature values.
- 4.It is efficient and convenient.
+ 1.Low cost and compitable system.  
+ 2.User Friendly.   
+ 3.Easy to modify the temperature values.   
+ 4.It is efficient and convenient.   
 
  ## Weakness
- 1.It can be used only in europian countries.
- 2.Low sensitivity.
+ 1.It can be used only in europian countries.   
+ 2.Low sensitivity.  
 
 ## Opportunities
-1.It can be implemented by replacing heater by air conditioners.
-2.It will be helpful in all the countries.
+1.It can be implemented by replacing heater by air conditioners.  
+2.It will be helpful in all the countries.   
 
 ## Threats
-Because of low senstivity it will not suitable in high temperature Environment.
+Because of low senstivity it will not suitable in high temperature Environment.   
 
 ## 4W's and 1'H
 ## Why
-It can monitoring our body temperature even when we are healthy and it can help to detect disease early and help us if it is okay to go to work or college or school.
+It can monitoring our body temperature even when we are healthy and it can help to detect disease early and help us if it is okay to go to work or college or school.   
 
 ## What
 Seat Monitoring System based on Temperature.
